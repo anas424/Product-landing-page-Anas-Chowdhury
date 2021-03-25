@@ -1,0 +1,168 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1{
+  margin: 0;
+}
+.top-container {
+  background-image: url(https://cdn.pixabay.com/photo/2015/07/05/08/27/background-831999_960_720.png);
+  height: 450px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+.welcome {
+  margin: 0;
+  color: white;
+  font-family: 'Alata', sans-serif;
+  padding-top: 110px;
+  font-size: 40px;
+}
+
+.welcome-para {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  padding-left: 170px;
+  padding-right: 170px;
+  padding-top: 40px;
+}
+
+.content-brief {
+  height: 250px;
+  width: 100%;
+  background-color: #16213e;
+}
+
+.content-brief-text {
+  font-family: 'Alata', sans-serif;
+  font-size: 30px;
+  text-align: center;
+  margin: 0;
+  padding-top: 30px;
+  padding: 25px;
+  color: #f9f6f7
+}
+
+.grid {
+  text-align: center;
+  display: grid;
+  grid-template-columns: 50% 50%;
+  padding-right: 80px;
+  padding-left: 80px;
+  grid-gap: 30px;
+  color: #f9f6f7;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+}
+
+.middle-container{
+  background-color: #222831;
+  height: 550px;
+  width: 100%;
+  text-align: center;
+  padding-top: 60px;
+  line-height: 2;
+}
+
+.Web-Development{
+  background-color: #f9f6f7;
+  height: 490px;
+  width: 300px;
+  display: inline-block;
+  font-family: 'Montserrat', sans-serif;
+
+
+}
+
+.Mobile-Application{
+  background-color: #f9f6f7;
+  height: 490px;
+width: 300px;
+  display: inline-block;
+margin-left: 20px;
+margin-right: 20px;
+font-family: 'Montserrat', sans-serif;
+
+}
+
+.Company-Creation{
+  background-color: #f9f6f7;
+  height: 490px;
+  width: 300px;
+  display: inline-block;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.web-image{
+  height: 200px;
+  width: 300px;
+}
+
+.middle-lower-container{
+  background-image: url(https://cdn.pixabay.com/photo/2016/11/29/09/16/architecture-1868667_960_720.jpg);
+  height: 350px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  color: #f6f5f5;
+}
+
+
+.our-team{
+  height: 750px;
+  width: 100%;
+  background-color: #222831;
+  text-align: center;
+  font-family: 'Alata', sans-serif;
+  color: #f6f5f5;
+  padding-top: 50px;
+
+}
+
+.bio{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.anas-pic{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.bakker-pic{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+
+
+.grind-container{
+  display: grid;
+  grid-template-columns: 50% 50%;
+  line-height: 2;
+}
+
+.contact{
+  background-color: #d6e0f0;
+  height: 300px;
+  font-family: 'Alata', sans-serif
+}
+
+.about{
+  background-color: #bfdcae;
+  height: 300px;
+  font-family: 'Alata', sans-serif
+}
